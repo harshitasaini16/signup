@@ -1,3 +1,9 @@
+Live: https://singup-react.netlify.app/
+
+<img width="1440" alt="image" src="https://github.com/harshitasaini16/signup/assets/99383725/e816010c-41c1-4d11-8675-cb81a1b22dba">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
